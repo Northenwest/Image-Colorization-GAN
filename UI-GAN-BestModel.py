@@ -19,7 +19,7 @@ st.set_page_config(
 )
 
 # Definisikan path dan nama konstanta
-MODEL_PATH = "C:\\Bisa.AI\\Image_Colorization\\best_generator.h5"
+MODEL_PATH = "best_generator.h5"
 DB_NAME = "colorization_history.db"
 MODEL_INPUT_SIZE = 256
 
@@ -1177,4 +1177,5 @@ st.markdown(
     </div>
     """,
     unsafe_allow_html=True
+
 )
