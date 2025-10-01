@@ -1,0 +1,14 @@
+tensorflow
+gradio
+matplotlib
+scikit-learn
+numpy
+opencv-python
+Pillow
+scikit-image
+torch
+torchvision
+tqdm
+h5py
+
+# Image Colorization with Convolutional Neural Networks
